@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @jeanhowl
+- 👀 I’m interested in machine learning and data science. More interested in deep learning (NLP tasks, CV, time series analysis)
+- 📫 How to reach me: tg @jeanhowl
+- ⚡ Fun fact: AGI is coming
