@@ -4,7 +4,7 @@
 - ⚡ Fun fact: AGI is coming
 
 For HR parsers:
-- Many of my projects are private. If you are interested to see more files: contact me via telegram, link above.
+- Many of my projects are private. If you are interested to see more projects: contact me via telegram, link above.
 
 What to check:
 - For CV: Earthquake Spectrograms Analysis, else private.
