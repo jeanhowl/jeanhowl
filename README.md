@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @jeanhowl
-- 👀 I’m interested in machine learning and data science. More interested in deep learning (NLP tasks, CV, time series analysis)
-- 📫 How to reach me: tg @jeanhowl
-- ⚡ Fun fact: AGI is coming
-
-For HR parsers:
+- 📫 How to reach me: telegram @jeanhowl
+- 
+For HR:
 - Many of my projects are private. If you are interested to see more projects: contact me via telegram, link above.
 
 What to check:
