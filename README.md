@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jeanhowl
 - 📫 How to reach me: telegram @jeanhowl
-- 
+  
 For HR:
 - Many of my projects are private. If you are interested to see more projects: contact me via telegram, link above.
 
